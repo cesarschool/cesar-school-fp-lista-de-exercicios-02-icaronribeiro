@@ -9,7 +9,7 @@
 # substituindo apenas o comando print(questão...) existente.
 ##
 def main():
-    print("questao 1")
+    print("questao   1")
     
 
 
